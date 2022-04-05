@@ -1,4 +1,4 @@
-# etleneum
+# Ethereum Virtual Machine on Lightning Network (2)
 
 - a third-party automated escrow
 - a platform for hosting complex apps without infrastructure
@@ -6,7 +6,7 @@
 - the Lua Lightning cloud
 - the MVPficator of Lightning apps
 - a home for your wildest dreams with satoshis
-
+-Smart contracts by Ethereum
 ## Build
 
 You need Lua 5.3 and musl to build statically linked binaries.
@@ -25,4 +25,4 @@ go build -o etleneum
 
 ## License
 
-Public domain, except you can't use for shitcoins.
+Public domain, except you can't use for shitcoins. Only Bitcoins here.
