@@ -6,7 +6,7 @@
 - the Lua Lightning cloud
 - the MVPficator of Lightning apps
 - a home for your wildest dreams with satoshis
--Smart contracts by Ethereum
+- Smart contracts by Ethereum
 ## Build
 
 You need Lua 5.3 and musl to build statically linked binaries.
